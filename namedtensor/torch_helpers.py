@@ -338,6 +338,7 @@ class NamedTensor(NamedTensorBase):
         "cuda",
         "detach",
         "double",
+        "elu",
         "exp",
         "expm1",
         "float",
