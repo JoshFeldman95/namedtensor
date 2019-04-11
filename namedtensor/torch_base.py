@@ -237,7 +237,6 @@ class NTorch(type):
         "cpu",
         "cuda",
         "double",
-        "elu",
         "exp",
         "expm1",
         "float",
